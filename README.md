@@ -1,6 +1,6 @@
 # python-microservices 
 
-This repo contains the source code from Dan Hipschman's excellent ["Python Microservicew With gRPC"](https://realpython.com/python-microservices-grpc/) tutorial that he produced for [Real Python](https://realpython.com/). 
+This repo contains the source code from Dan Hipschman's excellent *[Python Microservices With gRPC](https://realpython.com/python-microservices-grpc/)* tutorial that he produced for [Real Python](https://realpython.com/).
 
 ## Running the Example
 
